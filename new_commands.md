@@ -1,1 +1,15 @@
+# Temporary commits
+## Temporarily store modified, tracked files in order to change branches
+
+Save modified and staged changes
+- 'git stash'
+
+List stack-order of stashed file changes
+- 'git stash list'
+
+Write working from top of stash stack
+- 'git stash pop'
+
+Discard the changes from top of stash stack
+- 'git stash drop'
 
