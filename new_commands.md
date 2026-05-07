@@ -12,5 +12,5 @@ Write working from top of stash stack
 
 Discard the changes from top of stash stack
 - 'git stash drop'
-d
+
 
