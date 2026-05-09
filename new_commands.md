@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Temporary commits
 ## Temporarily store modified, tracked files in order to change branches
 
@@ -13,4 +14,5 @@ Write working from top of stash stack
 Discard the changes from top of stash stack
 - 'git stash drop'
 
-
+git log --follow <file_name>
+```
