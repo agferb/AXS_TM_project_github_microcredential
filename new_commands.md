@@ -1,7 +1,18 @@
-# Follow commits on single files
+<<<<<<< HEAD
+# Temporary commits
+## Temporarily store modified, tracked files in order to change branches
 
-It is possible to follow the commits that changed only a specific file:
+Save modified and staged changes
+- 'git stash'
 
-```bash
+List stack-order of stashed file changes
+- 'git stash list'
+
+Write working from top of stash stack
+- 'git stash pop'
+
+Discard the changes from top of stash stack
+- 'git stash drop'
+
 git log --follow <file_name>
 ```
